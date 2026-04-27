@@ -18,4 +18,4 @@ To practice and improve fundamental frontend development skills by converting a 
 ## 📌 Getting Started
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/besnik-landing-page.git
+   git clone https://github.com/your-username/besnik-landing-page.git](https://github.com/jayaprakashdev297-tech/Besnik-figma.git
